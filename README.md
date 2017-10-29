@@ -1,5 +1,3 @@
-A fork for a private Heroku deployment test.
-
 API: Flask (http://flask.pocoo.org/)
 Frontend: AngularJS (1.5.4)
 Webserver: Gunicorn (http://gunicorn.org/)

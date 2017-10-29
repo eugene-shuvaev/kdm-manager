@@ -22,7 +22,7 @@ import types
 import api
 import admin
 from modular_assets import survivor_attrib_controls
-import game_assets
+#import game_assets
 import html
 from models import Locations, Items, Resources, userPreferences, mutually_exclusive_principles 
 from session import Session
