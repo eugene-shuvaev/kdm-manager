@@ -4,7 +4,7 @@
 #	params
 #
 
-INSTALL_USER=toconnell	# the user who will run the Manager (cannot be root)
+INSTALL_USER=aidden	# the user who will run the Manager (cannot be root)
 LOGGING_ROOT=/var/log/kdm-manager
 PID_FILE_DIR=/var/run/kdm-manager
 NGINX_ROOT_D=/etc/nginx

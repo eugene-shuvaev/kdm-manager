@@ -1,7 +1,8 @@
 #!/bin/sh
 
-PROJECT_ABS_PATH=/home/toconnell/kdm-manager/v2/api/
-WORLD_DAEMON=/home/toconnell/kdm-manager/v2/api/world.py
+CURR_DIR=$(pwd)
+PROJECT_ABS_PATH=$CURR_DIR/v2/api/
+WORLD_DAEMON=$CURR_DIR/v2/api/world.py
 SERVICE=api.thewatcher.service
 SOCKET=api.thewatcher.socket
 SYSLOG=/var/log/syslog
