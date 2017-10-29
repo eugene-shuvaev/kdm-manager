@@ -24,7 +24,7 @@ to install the following packages:
 
 python dependencies (PIP should work for all of these if you've moved from `easy_install`)
 
-    ~# easy_install python-dateutil python-daemon=2.1.1 psutil lockfile pymongo pydns validate-email user-agents xlwt requests flask flask_jwt flask-jwt-extended retry gunicorn
+    ~# easy_install python-dateutil python-daemon==2.1.1 psutil lockfile pymongo pydns validate-email user-agents xlwt requests flask flask_jwt flask-jwt-extended retry gunicorn
 
 **Important!** If you have installed the normal jwt package (e.g. via *easy_install*
 or *pip*) and experience issues running the Manager, open an issue in GitHub and
