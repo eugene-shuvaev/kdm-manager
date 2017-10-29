@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from copy import copy
-import game_assets
+#import game_assets
 from utils import get_logger
 from string import capwords, Template
 import json

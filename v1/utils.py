@@ -21,7 +21,7 @@ import time
 from urllib import urlopen
 from user_agents import parse as ua_parse
 
-import game_assets
+#import game_assets
 
 
 # function to get settings. This has to be up top.

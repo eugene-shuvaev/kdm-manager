@@ -19,7 +19,7 @@ import assets
 import html
 import login
 import models
-import game_assets
+#import game_assets
 from utils import mdb, get_logger, get_user_agent, load_settings, ymd, ymdhms, mailSession
 
 settings = load_settings()

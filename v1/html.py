@@ -9,7 +9,7 @@ import sys
 #   custom
 import admin
 import api
-import game_assets
+#import game_assets
 from session import Session
 from utils import load_settings, mdb, get_logger, get_latest_update_string
 
